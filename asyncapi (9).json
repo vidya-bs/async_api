@@ -5,10 +5,10 @@
     "version": "1.0.0"
   },
   "channels": {
-    "tests": {
+    "testsddnvdnvd": {
       "publish": {
         "message": {
-          "$ref": "#/components/messages/testMessagess"
+          "$ref": "#/components/messages/testMessagessdvdvdnbvdb"
         }
       }
     }
